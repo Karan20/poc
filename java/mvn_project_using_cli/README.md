@@ -11,4 +11,4 @@
 mvn archetype:generate -DgroupId=<group-id> -DartifactId=<artifact-id> -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
 ```
 
-For more details [refer](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+For more details [refer this](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html) maven documentation
